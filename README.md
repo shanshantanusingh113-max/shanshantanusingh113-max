@@ -54,12 +54,9 @@
   <img src="https://streak-stats.demolab.com?user=shanshantanusingh113-max&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-
-###
 ![snake gif](https://github.com/shanshantanusingh113-max/shanshantanusingh113-max/blob/output/github-snake-dark.svg)
 
-
+###
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
