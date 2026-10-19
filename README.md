@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+%26+C%2B%2B+Developer;Building+a+PDF+to+Audiobook+converter;Exploring+AI+and+Google+Cloud;Open+to+collaboration!" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+%26+C%2B%2B+Developer;Building+a+3D+Solar+System+Lab;Exploring+AI+and+Google+Cloud;Open+to+collaboration!" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building a **PDF to Audiobook** converter in Python
+- 🔭 Currently building **[Kepler Orrery](https://github.com/shanshantanusingh113-max/kepler-orrery)**: a live 3D Solar System Lab with planetary science tools, all in the browser
 - 🌱 Learning **C++** in depth
 - 🤖 Exploring **AI**, and always happy to learn from people working in it
 - 💬 Ask me about **collaboration** and **tech support**

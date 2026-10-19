@@ -19,7 +19,7 @@ from PIL import Image, ImageDraw
 LOGIN = os.environ.get("GH_LOGIN", "shanshantanusingh113-max")
 DISPLAY_NAME = "Shantanu"
 FOCUS = [
-    ("Building", "PDF to Audiobook converter (Python)"),
+    ("Building", "Kepler Orrery · 3D Solar System Lab"),
     ("Learning", "C++ in depth"),
     ("Exploring", "AI · Google Cloud"),
     ("Ask me", "Collaboration · Tech support"),
