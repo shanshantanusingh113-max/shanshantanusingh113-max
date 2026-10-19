@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#1e1b4b;#0f172a" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#312e81">
+        <animate attributeName="stop-color" values="#312e81;#0e7490;#312e81" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 64px 'Segoe UI', Ubuntu, sans-serif; fill: url(#txt); opacity: 0; animation: rise 1.2s ease-out .2s forwards; }
+      .sub { font: 500 24px 'Segoe UI', Ubuntu, sans-serif; fill: #cbd5e1; opacity: 0; animation: rise 1.2s ease-out .8s forwards; }
+      .dot { fill: #e0e7ff; animation: twinkle 3s ease-in-out infinite; }
+      @keyframes rise { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes twinkle { 0%,100% { opacity: .15; } 50% { opacity: .9; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- twinkling particles -->
+  <circle class="dot" cx="90" cy="60" r="2"/>
+  <circle class="dot" cx="240" cy="40" r="1.5" style="animation-delay:.6s"/>
+  <circle class="dot" cx="410" cy="80" r="2" style="animation-delay:1.2s"/>
+  <circle class="dot" cx="760" cy="50" r="1.5" style="animation-delay:.3s"/>
+  <circle class="dot" cx="930" cy="90" r="2" style="animation-delay:1.8s"/>
+  <circle class="dot" cx="1110" cy="45" r="1.5" style="animation-delay:.9s"/>
+  <circle class="dot" cx="1040" cy="150" r="2" style="animation-delay:2.1s"/>
+  <circle class="dot" cx="150" cy="170" r="1.5" style="animation-delay:1.5s"/>
+
+  <!-- waves -->
+  <path fill="#22d3ee" fill-opacity=".18" d="M0 230 Q150 200 300 230 T600 230 T900 230 T1200 230 T1500 230 T1800 230 V300 H0 Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#a78bfa" fill-opacity=".22" d="M0 250 Q150 225 300 250 T600 250 T900 250 T1200 250 T1500 250 T1800 250 V300 H0 Z">
+    <animateTransform attributeName="transform" type="translate" values="-600 0;0 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#f472b6" fill-opacity=".2" d="M0 268 Q150 250 300 268 T600 268 T900 268 T1200 268 T1500 268 T1800 268 V300 H0 Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="135" text-anchor="middle" class="title">Hi, I'm Shantanu 👋</text>
+  <text x="600" y="185" text-anchor="middle" class="sub">Python · C++ · Cloud · Exploring AI</text>
+</svg>
