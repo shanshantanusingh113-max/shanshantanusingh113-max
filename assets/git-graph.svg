@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 200" width="980" height="200" role="img" aria-label="Animated git branch graph">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .ln { fill: none; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw 10s ease-in-out infinite; }
+      .flow { fill: none; stroke-width: 2; stroke-dasharray: 2 10; stroke-linecap: round; opacity: .55; animation: flow 1.2s linear infinite; }
+      .c { transform-box: fill-box; transform-origin: center; opacity: 0; animation: pop 10s ease-out infinite; }
+      .lbl { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; opacity: 0; animation: show 10s ease-out infinite; }
+      .cmd { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #c9d1d9; }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 100; } 12% { stroke-dashoffset: 0; } 88% { stroke-dashoffset: 0; opacity: 1; } 96%,100% { stroke-dashoffset: 0; opacity: 0; } }
+      @keyframes pop { 0% { opacity: 0; transform: scale(0); } 3% { opacity: 1; transform: scale(1.5); } 6% { transform: scale(1); } 88% { opacity: 1; } 96%,100% { opacity: 0; transform: scale(1); } }
+      @keyframes show { 0% { opacity: 0; } 4% { opacity: 1; } 88% { opacity: 1; } 96%,100% { opacity: 0; } }
+      @keyframes flow { to { stroke-dashoffset: -12; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="978" height="198" rx="12" fill="#0d1117" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <!-- branch lines -->
+  <path class="ln" pathLength="100" stroke="#22d3ee" d="M60 120 H920" style="animation-delay:0s"/>
+  <path class="ln" pathLength="100" stroke="#a78bfa" d="M180 120 C230 120 230 60 280 60 H470 C520 60 520 120 570 120" style="animation-delay:.9s"/>
+  <path class="ln" pathLength="100" stroke="#f472b6" d="M360 120 C410 120 410 170 460 170 H640 C690 170 690 120 740 120" style="animation-delay:1.8s"/>
+  <path class="ln" pathLength="100" stroke="#3fb950" d="M620 120 C660 120 660 60 700 60 H800 C840 60 840 120 880 120" style="animation-delay:2.7s"/>
+
+  <!-- data flowing along main -->
+  <path class="flow" stroke="#22d3ee" d="M60 120 H920"/>
+
+  <!-- commits: main -->
+  <g filter="url(#glow)">
+    <circle class="c" cx="60"  cy="120" r="8" fill="#22d3ee" style="animation-delay:.1s"/>
+    <circle class="c" cx="180" cy="120" r="8" fill="#22d3ee" style="animation-delay:.6s"/>
+    <circle class="c" cx="360" cy="120" r="8" fill="#22d3ee" style="animation-delay:1.5s"/>
+    <circle class="c" cx="570" cy="120" r="10" fill="#0d1117" stroke="#a78bfa" stroke-width="4" style="animation-delay:3.2s"/>
+    <circle class="c" cx="740" cy="120" r="10" fill="#0d1117" stroke="#f472b6" stroke-width="4" style="animation-delay:4.1s"/>
+    <circle class="c" cx="880" cy="120" r="10" fill="#0d1117" stroke="#3fb950" stroke-width="4" style="animation-delay:4.9s"/>
+    <circle class="c" cx="920" cy="120" r="9" fill="#22d3ee" style="animation-delay:5.4s"/>
+
+    <!-- feature/ai -->
+    <circle class="c" cx="300" cy="60" r="7" fill="#a78bfa" style="animation-delay:1.3s"/>
+    <circle class="c" cx="380" cy="60" r="7" fill="#a78bfa" style="animation-delay:1.9s"/>
+    <circle class="c" cx="460" cy="60" r="7" fill="#a78bfa" style="animation-delay:2.5s"/>
+
+    <!-- feature/3d -->
+    <circle class="c" cx="480" cy="170" r="7" fill="#f472b6" style="animation-delay:2.3s"/>
+    <circle class="c" cx="560" cy="170" r="7" fill="#f472b6" style="animation-delay:2.9s"/>
+    <circle class="c" cx="630" cy="170" r="7" fill="#f472b6" style="animation-delay:3.5s"/>
+
+    <!-- fix/hackathon -->
+    <circle class="c" cx="720" cy="60" r="7" fill="#3fb950" style="animation-delay:3.4s"/>
+    <circle class="c" cx="790" cy="60" r="7" fill="#3fb950" style="animation-delay:4.0s"/>
+  </g>
+
+  <!-- branch labels -->
+  <text class="lbl" x="60"  y="104" fill="#22d3ee" text-anchor="middle" style="animation-delay:.2s">main</text>
+  <text class="lbl" x="380" y="44"  fill="#a78bfa" text-anchor="middle" style="animation-delay:1.6s">feature/ai</text>
+  <text class="lbl" x="560" y="194" fill="#f472b6" text-anchor="middle" style="animation-delay:2.6s">feature/3d-viz</text>
+  <text class="lbl" x="755" y="44"  fill="#3fb950" text-anchor="middle" style="animation-delay:3.6s">hackathon</text>
+  <text class="lbl" x="920" y="104" fill="#e3b341" text-anchor="middle" style="animation-delay:5.5s">v2.0 🚀</text>
+
+  <!-- command line -->
+  <text class="cmd" x="24" y="32"><tspan fill="#3fb950">➜</tspan> <tspan fill="#22d3ee">~</tspan> git log --graph --all <tspan class="cur" fill="#22d3ee">▋</tspan></text>
+</svg>

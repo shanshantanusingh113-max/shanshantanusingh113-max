@@ -15,6 +15,10 @@
   <img src="./assets/terminal.svg" width="100%" alt="Animated terminal: ASCII avatar, profile info and projects"/>
 </p>
 
+<p align="center">
+  <img src="./assets/git-graph.svg" width="100%" alt="Animated git branch graph"/>
+</p>
+
 ---
 
 ### 🚀 About Me
