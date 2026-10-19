@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=shanshantanusingh113-max&color=22d3ee&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal: ASCII avatar, profile info and projects"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -26,6 +30,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,gcp,git,github,linux,vscode&perline=8" alt="C, C++, Python, Google Cloud, Git, GitHub, Linux, VS Code"/>
 </p>
+
+### 📂 Projects
+
+<!-- PROJECTS:START -->
+_Generating… this table fills in automatically from my public repos._
+<!-- PROJECTS:END -->
 
 ### 📊 GitHub Stats
 
