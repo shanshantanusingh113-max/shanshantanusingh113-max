@@ -41,11 +41,11 @@
 | Project | Description | Language | ⭐ | Updated |
 |---|---|---|:-:|---|
 | [**shantanu-ai-craft-74b8b692**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft-74b8b692) | — | TypeScript | 1 | today |
-| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 1d ago |
-| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 1d ago |
-| [**kepler-orrery**](https://github.com/shanshantanusingh113-max/kepler-orrery) | Solar System Lab: live 3D orrery plus four planetary science tools, all in the browser | HTML | 1 | 10d ago |
-| [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 14d ago |
-| [**ledgerlens**](https://github.com/shanshantanusingh113-max/ledgerlens) | AI copilot for Indian GST reconciliation: every mismatch priced as ITC at risk or ITC found, each Finding explained with evidence, a Draft fix approved in one click, and Supplier rings caught on the network view | Python | 1 | 25d ago |
+| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 2d ago |
+| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 2d ago |
+| [**kepler-orrery**](https://github.com/shanshantanusingh113-max/kepler-orrery) | Solar System Lab: live 3D orrery plus four planetary science tools, all in the browser | HTML | 1 | 11d ago |
+| [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 15d ago |
+| [**ledgerlens**](https://github.com/shanshantanusingh113-max/ledgerlens) | AI copilot for Indian GST reconciliation: every mismatch priced as ITC at risk or ITC found, each Finding explained with evidence, a Draft fix approved in one click, and Supplier rings caught on the network view | Python | 1 | 26d ago |
 | [**jansetu-ai**](https://github.com/shanshantanusingh113-max/jansetu-ai) | JanSetu AI - Multilingual citizen grievance routing system (React + FastAPI + ML) with the Corsair Edition animated design | JavaScript | 0 | 1mo ago |
 | [**shantanu-ai-craft**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft) | — | TypeScript | 1 | 2mo ago |
 | [**sih26067-samudra**](https://github.com/shanshantanusingh113-max/sih26067-samudra) | SAMUDRA - SIH26067 web-based interactive 3D ocean data visualization platform (INCOIS): WOA23 fields + Argo/Glider/BGC observations + HYCOM currents | TypeScript | 0 | 2mo ago |
@@ -55,7 +55,7 @@
 | [**child-dev-intelligence**](https://github.com/shanshantanusingh113-max/child-dev-intelligence) | — | TypeScript | 0 | 2mo ago |
 | [**Hacklt**](https://github.com/shanshantanusingh113-max/Hacklt) | — | JavaScript | 0 | 2mo ago |
 | [**airiq-city**](https://github.com/shanshantanusingh113-max/airiq-city) | AI powered urban air quality intelligence for smart city intervention | — | 0 | 3mo ago |
-| [**HealthConnect-AI**](https://github.com/shanshantanusingh113-max/HealthConnect-AI) | AI-powered responsive healthcare platform prototype for connected, accessible and preventive care | HTML | 0 | 3mo ago |
+| [**HealthConnect-AI**](https://github.com/shanshantanusingh113-max/HealthConnect-AI) | AI-powered responsive healthcare platform prototype for connected, accessible and preventive care | HTML | 0 | 4mo ago |
 | [**muleshield**](https://github.com/shanshantanusingh113-max/muleshield) | — | JavaScript | 0 | 5mo ago |
 | [**Codebase-Cartographer**](https://github.com/shanshantanusingh113-max/Codebase-Cartographer) | — | Python | 0 | 5mo ago |
 | [**face-attendance-app**](https://github.com/shanshantanusingh113-max/face-attendance-app) | — | JavaScript | 0 | 5mo ago |
