@@ -40,12 +40,12 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | ⭐ | Updated |
 |---|---|---|:-:|---|
-| [**Forge**](https://github.com/shanshantanusingh113-max/Forge) | — | HTML | 0 | 4d ago |
-| [**shantanu-ai-craft-74b8b692**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft-74b8b692) | — | TypeScript | 1 | 6d ago |
-| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 7d ago |
-| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 7d ago |
-| [**kepler-orrery**](https://github.com/shanshantanusingh113-max/kepler-orrery) | Solar System Lab: live 3D orrery plus four planetary science tools, all in the browser | HTML | 1 | 17d ago |
-| [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 20d ago |
+| [**Forge**](https://github.com/shanshantanusingh113-max/Forge) | — | HTML | 0 | 5d ago |
+| [**shantanu-ai-craft-74b8b692**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft-74b8b692) | — | TypeScript | 1 | 7d ago |
+| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 8d ago |
+| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 8d ago |
+| [**kepler-orrery**](https://github.com/shanshantanusingh113-max/kepler-orrery) | Solar System Lab: live 3D orrery plus four planetary science tools, all in the browser | HTML | 1 | 18d ago |
+| [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 21d ago |
 | [**ledgerlens**](https://github.com/shanshantanusingh113-max/ledgerlens) | AI copilot for Indian GST reconciliation: every mismatch priced as ITC at risk or ITC found, each Finding explained with evidence, a Draft fix approved in one click, and Supplier rings caught on the network view | Python | 1 | 1mo ago |
 | [**jansetu-ai**](https://github.com/shanshantanusingh113-max/jansetu-ai) | JanSetu AI - Multilingual citizen grievance routing system (React + FastAPI + ML) with the Corsair Edition animated design | JavaScript | 0 | 2mo ago |
 | [**shantanu-ai-craft**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft) | — | TypeScript | 1 | 2mo ago |
@@ -55,11 +55,11 @@
 | [**portfolio**](https://github.com/shanshantanusingh113-max/portfolio) | — | TypeScript | 0 | 2mo ago |
 | [**child-dev-intelligence**](https://github.com/shanshantanusingh113-max/child-dev-intelligence) | — | TypeScript | 0 | 2mo ago |
 | [**Hacklt**](https://github.com/shanshantanusingh113-max/Hacklt) | — | JavaScript | 0 | 2mo ago |
-| [**airiq-city**](https://github.com/shanshantanusingh113-max/airiq-city) | AI powered urban air quality intelligence for smart city intervention | — | 0 | 3mo ago |
+| [**airiq-city**](https://github.com/shanshantanusingh113-max/airiq-city) | AI powered urban air quality intelligence for smart city intervention | — | 0 | 4mo ago |
 | [**HealthConnect-AI**](https://github.com/shanshantanusingh113-max/HealthConnect-AI) | AI-powered responsive healthcare platform prototype for connected, accessible and preventive care | HTML | 0 | 4mo ago |
 | [**muleshield**](https://github.com/shanshantanusingh113-max/muleshield) | — | JavaScript | 0 | 5mo ago |
 | [**Codebase-Cartographer**](https://github.com/shanshantanusingh113-max/Codebase-Cartographer) | — | Python | 0 | 5mo ago |
-| [**face-attendance-app**](https://github.com/shanshantanusingh113-max/face-attendance-app) | — | JavaScript | 0 | 5mo ago |
+| [**face-attendance-app**](https://github.com/shanshantanusingh113-max/face-attendance-app) | — | JavaScript | 0 | 6mo ago |
 | [**HeyConvo**](https://github.com/shanshantanusingh113-max/HeyConvo) · [demo](https://hey-convo.vercel.app) | — | JavaScript | 0 | 7mo ago |
 | [**Pdf-to-audiobook**](https://github.com/shanshantanusingh113-max/Pdf-to-audiobook) | — | Python | 0 | 7mo ago |
 | [**report**](https://github.com/shanshantanusingh113-max/report) | — | — | 0 | 7mo ago |
