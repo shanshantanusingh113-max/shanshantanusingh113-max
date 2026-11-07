@@ -40,12 +40,12 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | ⭐ | Updated |
 |---|---|---|:-:|---|
-| [**Forge**](https://github.com/shanshantanusingh113-max/Forge) | — | HTML | 0 | 5d ago |
+| [**Forge**](https://github.com/shanshantanusingh113-max/Forge) | — | HTML | 0 | 6d ago |
 | [**shantanu-ai-craft-74b8b692**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft-74b8b692) | — | TypeScript | 1 | 7d ago |
-| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 8d ago |
-| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 8d ago |
+| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 9d ago |
+| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 9d ago |
 | [**kepler-orrery**](https://github.com/shanshantanusingh113-max/kepler-orrery) | Solar System Lab: live 3D orrery plus four planetary science tools, all in the browser | HTML | 1 | 18d ago |
-| [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 21d ago |
+| [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 22d ago |
 | [**ledgerlens**](https://github.com/shanshantanusingh113-max/ledgerlens) | AI copilot for Indian GST reconciliation: every mismatch priced as ITC at risk or ITC found, each Finding explained with evidence, a Draft fix approved in one click, and Supplier rings caught on the network view | Python | 1 | 1mo ago |
 | [**jansetu-ai**](https://github.com/shanshantanusingh113-max/jansetu-ai) | JanSetu AI - Multilingual citizen grievance routing system (React + FastAPI + ML) with the Corsair Edition animated design | JavaScript | 0 | 2mo ago |
 | [**shantanu-ai-craft**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft) | — | TypeScript | 1 | 2mo ago |
