@@ -40,10 +40,10 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | ⭐ | Updated |
 |---|---|---|:-:|---|
-| [**Forge**](https://github.com/shanshantanusingh113-max/Forge) | — | HTML | 0 | 26d ago |
-| [**shantanu-ai-craft-74b8b692**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft-74b8b692) | — | TypeScript | 1 | 28d ago |
-| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 29d ago |
-| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 29d ago |
+| [**Forge**](https://github.com/shanshantanusingh113-max/Forge) | — | HTML | 0 | 27d ago |
+| [**shantanu-ai-craft-74b8b692**](https://github.com/shanshantanusingh113-max/shantanu-ai-craft-74b8b692) | — | TypeScript | 1 | 29d ago |
+| [**sentineliq**](https://github.com/shanshantanusingh113-max/sentineliq) · [demo](https://sentineliq-gold.vercel.app) | — | JavaScript | 0 | 1mo ago |
+| [**allotment-atlas**](https://github.com/shanshantanusingh113-max/allotment-atlas) | — | JavaScript | 1 | 1mo ago |
 | [**kepler-orrery**](https://github.com/shanshantanusingh113-max/kepler-orrery) | Solar System Lab: live 3D orrery plus four planetary science tools, all in the browser | HTML | 1 | 1mo ago |
 | [**jss-university-noida-3d-tour**](https://github.com/shanshantanusingh113-max/jss-university-noida-3d-tour) | — | HTML | 1 | 1mo ago |
 | [**ledgerlens**](https://github.com/shanshantanusingh113-max/ledgerlens) | AI copilot for Indian GST reconciliation: every mismatch priced as ITC at risk or ITC found, each Finding explained with evidence, a Draft fix approved in one click, and Supplier rings caught on the network view | Python | 1 | 1mo ago |
@@ -62,7 +62,7 @@
 | [**face-attendance-app**](https://github.com/shanshantanusingh113-max/face-attendance-app) | — | JavaScript | 0 | 6mo ago |
 | [**HeyConvo**](https://github.com/shanshantanusingh113-max/HeyConvo) · [demo](https://hey-convo.vercel.app) | — | JavaScript | 0 | 7mo ago |
 | [**Pdf-to-audiobook**](https://github.com/shanshantanusingh113-max/Pdf-to-audiobook) | — | Python | 0 | 7mo ago |
-| [**report**](https://github.com/shanshantanusingh113-max/report) | — | — | 0 | 7mo ago |
+| [**report**](https://github.com/shanshantanusingh113-max/report) | — | — | 0 | 8mo ago |
 <!-- PROJECTS:END -->
 
 ### 📊 GitHub Stats
